@@ -18,13 +18,9 @@ My goal as a data scientist is to leverage data to uncover insights, make data-d
 
 
 -----
-### Connect With ME
-<a href="https://www.linkedin.com/in/atharva-dumbre-481961226" target="_blank">
-    <img align="left" alt="Atharva | LinkedIn" width="22px" src="https://raw.githubusercontent.com/31Atharva/31Atharva/main/icons/linkedin.png" />
-</a>
-<a href="mailto:atharvadumbre02@gmail.com">
-    <img align="left" width="28px" src="https://raw.githubusercontent.com/31Atharva/31Atharva/main/icons/gmail2.png" />
-</a>
+[<img align="left" alt="Atharva | LinkedIn" width="22px" src="https://github.com/31Atharva/31Atharva/blob/main/icons/linkedin.png" />](https://www.linkedin.com/in/atharva-dumbre-481961226)
+[<img align="left" width="28px" src="https://github.com/31Atharva/31Atharva/blob/main/icons/gmail2.png" />](mailto:atharvadumbre02@gmail.com)
+
 
 <br>
 
@@ -39,26 +35,25 @@ My goal as a data scientist is to leverage data to uncover insights, make data-d
 [<img align="left" alt="Pycharm" width="30px" src="https://user-images.githubusercontent.com/75840165/113471548-c3fd2400-947a-11eb-8b5b-bd5bc3886cc0.png" />](https://www.jetbrains.com/pycharm/)
 [<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/)
 
+</br>
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 [![](https://visitcount.itsvg.in/api?id=31Atharva&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <br />
 
 ---
 
 <!-- Links -->
-[linkedin]: https://www.linkedin.com/in/shubham-murtadak/
-[github]: https://github.com/shubham-murtadak
+[linkedin]: www.linkedin.com/in/atharva-dumbre-481961226
+[github]: https://github.com/31Atharva
 [tensorflow]: https://www.tensorflow.org/
 [sklearn]: https://scikit-learn.org/stable/index.html
-[pandas]: https://pandas.pydata.org/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[medium]: https://shubhamdmurtadak.medium.com/
-[gmail]: shubhammurtadak022@gmail.com
+[pandas]: https://pandas.pydata.org
+[gmail]: atharvadumbre02@gmail.com
+
 
 
 ### GitHub Stats:

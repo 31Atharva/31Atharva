@@ -60,5 +60,5 @@
 
 ## 📈 Contributions:
 <p align="center">
-  <img src="https://github.com/31atharva/31atharva/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/31atharva/31atharva/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" width="100%" />
 </p>

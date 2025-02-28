@@ -13,7 +13,9 @@
 ## 🔗 Connect with Me:
 <p align="left">
 <a href="https://www.linkedin.com/in/atharva-dumbre/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://imatharva.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Website-blue?style=flat-square" alt="Portfolio" /></a>
+<a href="https://atharva-dumbre.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=flat-square" alt="Portfolio" />
+</a>
 </p>
 
 ---
